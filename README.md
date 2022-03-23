@@ -1,4 +1,4 @@
-# react-native-components
+## React Native components
 
 Um aplicativo React Native, com um componente simples, para saber mais sobre essa tecnologia
 
